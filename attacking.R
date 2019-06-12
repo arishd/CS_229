@@ -1,4 +1,4 @@
-# This is for the 2019 season. This code is run f
+# This is for the 2019 season. This code is run for every season for 2015-2019
 
 library(data.table)
 library(plyr)
